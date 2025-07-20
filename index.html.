@@ -40,7 +40,7 @@
 
   <div class="audio-container">
     <audio controls autoplay loop>
-      <source src="valeria.mp3" type="audio/mpeg">
+      <source src="Screenshots/valeria.mp3" type="audio/mpeg">
       Tu navegador no soporta audio.
     </audio>
   </div>
